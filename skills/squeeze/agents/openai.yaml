@@ -1,0 +1,6 @@
+interface:
+  display_name: "squeeze"
+  short_description: "仅显式调用：宽泛问题先给摘要，用户逐层点选，每次只展开一层"
+
+policy:
+  allow_implicit_invocation: false
