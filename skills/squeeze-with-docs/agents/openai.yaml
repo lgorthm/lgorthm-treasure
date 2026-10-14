@@ -1,0 +1,6 @@
+interface:
+  display_name: "squeeze-with-docs"
+  short_description: "仅显式调用：自动递归回答问题，生成可按兴趣浏览的层级 Markdown 文档"
+
+policy:
+  allow_implicit_invocation: false
